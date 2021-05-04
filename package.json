@@ -1,0 +1,22 @@
+{
+    "name": "@wasimlorgat/zip",
+    "description": "Functional hierarchical zipper, with navigation, editing, and enumeration. Port of clojure.zip to JavaScript.",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": {
+        "name": "Wasim Lorgat",
+        "email": "mwlorgat@gmail.com",
+        "url": "https://wasimlorgat.com"
+    },
+    "license": "MIT",
+    "bugs": "http://github.com/seem/zip/issues",
+    "repository": "seem/zip",
+    "type": "module",
+    "keywords": [
+        "zipper",
+        "tree",
+        "functional",
+        "immutable",
+        "cursor"
+    ]
+}
