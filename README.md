@@ -5,3 +5,8 @@ Functional hierarchical zipper, with navigation, editing, and enumeration. Port 
 ## Install
 
 ```$ npm install @wasimlorgat/zip```
+
+## Further reading
+
+- Gérard Huet's [original paper](http://gallium.inria.fr/~huet/PUBLIC/zip.pdf).
+- Pavel Panchekha's [series of essays](https://pavpanchekha.com/blog/zippers/huet.html).
